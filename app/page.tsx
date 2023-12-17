@@ -8,10 +8,14 @@ import { GithubIcon } from "@/components/icons";
 
 export default function Home() {
 	return (
-		<section className="flex flex-col gap-4 py-30 md:py-30">
-			<div className="inline-block justify-start pt-56">
+		<section className="flex flex-col gap-4 py-20 md:py-20">
+			<div className="inline-block justify-start pt-33">
 				{/* <h1 className={title()}>Make&nbsp;</h1>
 				<h1 className={title({ color: "violet" })}>beautiful&nbsp;</h1> */}
+				<h1 className="text-[7vh] md:text-[10vh] lg:text-[15vh]" >
+				HUMBLE ETH STAKING
+				</h1>
+				<br></br>
 				<h1 className={title()}>
 				ETHEREUM PUBLIC GOODS FUNDING VIA STAKING REWARDS REDISTRIBUTION
 				</h1>

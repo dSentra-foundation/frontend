@@ -2,7 +2,7 @@ export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
 	name: "dSentra",
-	description: "ETHEREUM PUBLIC GOODS FUNDING VIA STAKING REWARDS REDISTRIBUTION",
+	description: "HUMBLE ETH STAKING",
 	navItems: [
 		{
 			label: "Product",
@@ -40,10 +40,10 @@ export const siteConfig = {
 		},
 	],
 	links: {
-		github: "https://github.com/nextui-org/nextui",
+		github: "https://github.com/dSentra-foundation",
 		twitter: "https://twitter.com/foundation_rai",
-		docs: "https://nextui.org",
-		discord: "https://discord.gg/9b6yyZKmH4",
+		docs: "https://dsentra.notion.site/Vision-and-Strategy-9f6eac8bfcab4c0694a6c2ed077acfd7",
+		discord: "https://discord.com/invite/4FnrHx8t",
 		sponsor: "https://patreon.com/jrgarciadev"
 	},
 };
